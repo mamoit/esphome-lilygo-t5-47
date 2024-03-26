@@ -2,9 +2,7 @@
 
 #include "esphome/core/log.h"
 #include <string.h>
-extern "C" {
 #include "eink.h"
-}
 
 namespace esphome {
 namespace lilygo_t5_47 {
